@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shoot\'em</string>
+    <string name="main_background">Main background</string>
+    <string name="shoot_em">Shoot\'em!!!</string>
+    <string name="play">Play</string>
+    <string name="game_over">Game Over! \n Score: %1$d</string>
+    <string name="play_music">Play Music</string>
+    <string name="title_activity_splash_image">SplashImageActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="logo">Logo</string>
+</resources>
